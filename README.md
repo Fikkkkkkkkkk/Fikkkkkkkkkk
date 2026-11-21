@@ -1,35 +1,27 @@
-<h1 align="center">Hey, I'm Fikri 👋</h1>
+<div align="center">
 
-<p align="center">
-  Computer Science student • Front-end development enthusiast
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:111827,50:1d4ed8,100:7c3aed&height=220&section=header&text=FIKRI&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Computer%20Science%20Student%20%7C%20Front-end%20Enthusiast&descAlignY=68&descSize=18" width="100%" />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2b7fff&height=120&section=header" alt="Blue wave banner" />
-</p>
+<br/>
 
-## 👨‍💻 About me
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=600&lines=Building+ideas+into+real+projects;Learning+something+new+every+day;Currently+creating+FinanceFlow+%F0%9F%92%B8" alt="Typing introduction" />
 
-- 🎓 I'm studying Computer Science.
-- 🖥️ I enjoy building things for the web.
-- 🌱 I'm learning and improving my front-end development skills.
-- 💸 Currently working on **FinanceFlow**, an offline-first expense tracker.
-- 🎮 I’m interested in making a 3D, game-inspired portfolio.
+<br/><br/>
 
-## 🧰 Things I work with
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+</a>
+<img src="https://img.shields.io/badge/Status-Always%20learning-111827?style=for-the-badge&logo=rocket&logoColor=60a5fa" alt="Always learning" />
 
-`HTML` · `CSS` · `JavaScript` · `React Native` · `Git` · `GitHub`
-
-## 🚀 Featured project
-
-### FinanceFlow
-A personal expense tracker designed to work offline and keep financial data on your device.
-
-<!-- When the project is on GitHub, replace the link below with its URL. -->
-[View the project](https://github.com/YOUR_USERNAME/YOUR_PROJECT)
+</div>
 
 ---
 
-<p align="center">
-  Thanks for stopping by! Feel free to explore my repositories ✨
-</p>
+## `> whoami`
+
+```text
+🎓  Computer Science student
+🎨  Into front-end development and clean UI
+🛠️  Building FinanceFlow, an offline-first expense tracker
+🎮  Dreaming up a 3D, game-inspired portfolio
+📍  Malaysia
