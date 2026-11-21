@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Fikkkkkkkkkk">
   <img src="https://img.shields.io/badge/GitHub-View%20my%20work-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
 </a>
 <img src="https://img.shields.io/badge/BASE-MALAYSIA-111827?style=for-the-badge&logo=googlemaps&logoColor=67e8f9" alt="Based in Malaysia" />
@@ -47,12 +47,12 @@ A personal expense tracker designed to work offline and keep financial data on t
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=080b1a&title_color=67e8f9&icon_color=a78bfa&text_color=c9d1d9" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=080b1a&title_color=67e8f9&text_color=c9d1d9" alt="Most used languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Fikkkkkkkkkk&show_icons=true&hide_border=true&bg_color=080b1a&title_color=67e8f9&icon_color=a78bfa&text_color=c9d1d9" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fikkkkkkkkkk&layout=compact&hide_border=true&bg_color=080b1a&title_color=67e8f9&text_color=c9d1d9" alt="Most used languages" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=discord&no-frame=true&no-bg=true&margin-w=8" alt="GitHub trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Fikkkkkkkkkk&theme=discord&no-frame=true&no-bg=true&margin-w=8" alt="GitHub trophies" />
 
 </div>
 
@@ -61,9 +61,9 @@ A personal expense tracker designed to work offline and keep financial data on t
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
-  <img alt="Animated snake moving across my contribution graph" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fikkkkkkkkkk/Fikkkkkkkkkk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fikkkkkkkkkk/Fikkkkkkkkkk/output/github-contribution-grid-snake.svg">
+  <img alt="Animated snake moving across my contribution graph" src="https://raw.githubusercontent.com/Fikkkkkkkkkk/Fikkkkkkkkkk/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
