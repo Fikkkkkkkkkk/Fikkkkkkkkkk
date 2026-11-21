@@ -16,13 +16,13 @@
 
 ---
 
-## `> player_profile`
+## A little about me
 
-> Computer Science student exploring front-end development and building practical projects with a little personality.
+Hey, I’m Fikri 👋 I’m a Computer Science student in Malaysia who enjoys building useful apps and clean interfaces.
 
-| 🎯 Current quest | 💸 Building | 🎮 Dream project |
-|:---|:---|:---|
-| Grow as a developer | **FinanceFlow**, an offline-first expense tracker | A 3D, game-inspired portfolio |
+- 💻 **Exploring:** Front-end development
+- 🔨 **Building:** FinanceFlow, an offline-first expense tracker
+- 🎮 **Into:** 3D and game-inspired web design
 
 ## `> tech_inventory`
 
